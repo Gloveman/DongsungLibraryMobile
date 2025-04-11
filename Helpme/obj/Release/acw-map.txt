@@ -1,0 +1,4 @@
+Helpme.MainActivity, Helpme;md5be98073ce3d16bddf595dc2d865d4c9e.MainActivity
+Helpme.MainActivity, Helpme, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5be98073ce3d16bddf595dc2d865d4c9e.MainActivity
+Helpme.MainActivity;md5be98073ce3d16bddf595dc2d865d4c9e.MainActivity
+helpme.MainActivity;md5be98073ce3d16bddf595dc2d865d4c9e.MainActivity

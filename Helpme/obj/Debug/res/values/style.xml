@@ -1,0 +1,1 @@
+<resources><style name="startup"><item name="android:windowBackground">@drawable/startup_image</item><item name="android:windowNoTitle">true</item><item name="android:windowFullscreen">true</item></style><style name="Gloveman"><item name="android:windowNoTitle">true</item><item name="android:windowFullscreen">true</item></style></resources>

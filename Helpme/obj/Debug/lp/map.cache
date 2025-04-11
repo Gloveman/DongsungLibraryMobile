@@ -1,0 +1,5 @@
+System.Runtime
+HtmlAgilityPack
+Xamarin.Android.Support.v4
+Plugin.LocalNotifications.Abstractions
+Plugin.LocalNotifications

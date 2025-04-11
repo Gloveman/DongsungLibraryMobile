@@ -1,0 +1,7 @@
+G:\Programming\Helpme\Helpme\obj\Release\android\assets\Helpme.dll
+G:\Programming\Helpme\Helpme\obj\Release\android\assets\Java.Interop.dll
+G:\Programming\Helpme\Helpme\obj\Release\android\assets\Mono.Android.dll
+G:\Programming\Helpme\Helpme\obj\Release\android\assets\mscorlib.dll
+G:\Programming\Helpme\Helpme\obj\Release\android\assets\System.Core.dll
+G:\Programming\Helpme\Helpme\obj\Release\android\assets\System.dll
+G:\Programming\Helpme\Helpme\obj\Release\android\assets\System.Runtime.Serialization.dll
